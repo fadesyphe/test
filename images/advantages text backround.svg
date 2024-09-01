@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.77 288.77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .11em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: .1em;
+      }
+
+      .cls-4 {
+        letter-spacing: .11em;
+      }
+
+      .cls-5 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        letter-spacing: .08em;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 13.06px;
+      }
+
+      .cls-8 {
+        letter-spacing: .1em;
+      }
+
+      .cls-9 {
+        letter-spacing: .09em;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_2-2" data-name="Слой 2">
+    <g>
+      <text class="cls-7" transform="translate(10.93 190.38) rotate(-90)"><tspan class="cls-4" x="0" y="0">О</tspan><tspan class="cls-9" x="10.47" y="0">т</tspan><tspan class="cls-3" x="17.05" y="0">крыв</tspan><tspan class="cls-1" x="51.18" y="0">а</tspan><tspan class="cls-8" x="58.87" y="0">я </tspan><tspan class="cls-6" x="70.72" y="0">г</tspan><tspan class="cls-3" x="76.8" y="0">оризо</tspan><tspan class="cls-5" x="117.96" y="0">н</tspan><tspan class="cls-9" x="126.35" y="0">т</tspan><tspan class="cls-8" x="132.93" y="0">ы</tspan></text>
+      <line class="cls-2" x1="15.27" x2="15.27" y2="288.77"/>
+    </g>
+  </g>
+</svg>

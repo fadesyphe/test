@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 302.98 320.67">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-4, .cls-9 {
+        stroke-miterlimit: 2.55;
+        stroke-width: .64px;
+      }
+
+      .cls-4, .cls-9, .cls-10 {
+        stroke: #000;
+      }
+
+      .cls-9 {
+        fill: #92a581;
+      }
+
+      .cls-5 {
+        fill: #dee6e9;
+      }
+
+      .cls-11 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 19.28px;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-10 {
+        fill: #eac5b3;
+        stroke-miterlimit: 2.55;
+        stroke-width: .64px;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-10);
+      }
+    </style>
+    <clipPath id="clippath">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <ellipse class="cls-3" cx="131.43" cy="193.66" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <ellipse class="cls-3" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+    </clipPath>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g id="_Слой_3" data-name="Слой 3">
+        <g class="cls-13">
+          <ellipse class="cls-5" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+        </g>
+        <g class="cls-7">
+          <ellipse class="cls-10" cx="137.48" cy="187.16" rx="63.36" ry="62.74"/>
+        </g>
+        <g class="cls-1">
+          <path class="cls-9" d="M145.28,204.23c-14.74-6.94-36.34-15.21-68.31-17.41-31.14-2.14-62.33,4.65-77.79,9.29l-16.6,86.27,57.63,28.33,102.84-105.31,2.22-1.17Z"/>
+        </g>
+        <g class="cls-14">
+          <path class="cls-9" d="M253.69,196.26c-13.09-4.95-36.24-11.69-64.34-8.07-14.07,1.84-27.73,6.02-46.29,15.42-21.19,10.67-65.57,35.73-105.37,79.94l90.88,133.95,154.19-212.26-29.07-8.98Z"/>
+        </g>
+        <g class="cls-8">
+          <path class="cls-4" d="M122.19,215c-12.27-5.77-28.46-12.15-55.11-13.99-25.93-1.79-55.93,5.41-68.82,9.29"/>
+        </g>
+        <g class="cls-16">
+          <path class="cls-4" d="M90.95,235.42c-8.45-3.98-18.46-7.66-36.81-8.93-17.89-1.23-45.06,5.05-53.92,7.76"/>
+        </g>
+        <g class="cls-2">
+          <path class="cls-4" d="M65.43,256.14c-4.33-2.04-7.94-3.32-17.32-3.98-9.12-.61-28.35,4.39-32.89,5.72"/>
+        </g>
+        <g class="cls-6">
+          <path class="cls-4" d="M40.17,296.06c32.89-37.93,65.99-60.34,88.36-73.15,37.22-21.29,59.8-24.4,66.45-25.22,29.18-3.42,53.2,3.01,67.17,8.07"/>
+        </g>
+        <g class="cls-15">
+          <path class="cls-4" d="M45.58,314.59c32.89-37.93,65.99-60.34,88.36-73.15,37.22-21.29,59.8-24.4,66.45-25.22,29.18-3.42,56.96-.82,70.93,4.19"/>
+        </g>
+        <g class="cls-12">
+          <path class="cls-4" d="M59.81,337.61c32.12-38.59,64.7-61.67,86.86-74.94,36.76-22,59.28-25.63,65.93-26.55,29.07-4.03,56.96-1.99,71.04,2.76"/>
+        </g>
+        <g class="cls-17">
+          <path class="cls-4" d="M74.86,364.11c31.55-39,63.82-62.59,85.78-76.11,36.45-22.51,58.92-26.44,65.57-27.46,29.02-4.44,56.91-2.76,71.04,1.79"/>
+        </g>
+        <ellipse id="SVGID" class="cls-4" cx="128.58" cy="187.53" rx="128.26" ry="127.01"/>
+      </g>
+      <text class="cls-11" transform="translate(131.86 53.86) rotate(.52) skewX(.18)"><tspan x="0" y="0">О</tspan></text>
+      <text class="cls-11" transform="translate(147.12 54.22) rotate(6.06) skewX(.08)"><tspan x="0" y="0">т</tspan></text>
+      <text class="cls-11" transform="translate(156.6 55.26) rotate(10.54)"><tspan x="0" y="0">к</tspan></text>
+      <text class="cls-11" transform="translate(167.39 57.3) rotate(15.76) skewX(-.1)"><tspan x="0" y="0">р</tspan></text>
+      <text class="cls-11" transform="translate(179.56 60.77) rotate(21.76) skewX(-.2)"><tspan x="0" y="0">ы</tspan></text>
+      <text class="cls-11" transform="translate(193.02 66.32) rotate(27.52) skewX(-.3)"><tspan x="0" y="0">в</tspan></text>
+      <text class="cls-11" transform="translate(203.05 71.63) rotate(32.52) skewX(-.37)"><tspan x="0" y="0">а</tspan></text>
+      <text class="cls-11" transform="translate(212.31 77.6) rotate(37.79) skewX(-.43)"><tspan x="0" y="0">й</tspan></text>
+      <text class="cls-11" transform="translate(222.03 85.36) rotate(41.91) skewX(-.47)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-11" transform="translate(226.39 89.28) rotate(45.31) skewX(-.49)"><tspan x="0" y="0">г</tspan></text>
+      <text class="cls-11" transform="translate(232.57 95.51) rotate(49.96) skewX(-.51)"><tspan x="0" y="0">о</tspan></text>
+      <text class="cls-11" transform="translate(240.43 104.89) rotate(56) skewX(-.52)"><tspan x="0" y="0">р</tspan></text>
+      <text class="cls-11" transform="translate(247.49 115.39) rotate(61.06) skewX(-.51)"><tspan x="0" y="0">и</tspan></text>
+      <text class="cls-11" transform="translate(253.36 126.27) rotate(66.13) skewX(-.49)"><tspan x="0" y="0">з</tspan></text>
+      <text class="cls-11" transform="translate(257.37 135.38) rotate(71.19) skewX(-.45)"><tspan x="0" y="0">о</tspan></text>
+      <text class="cls-11" transform="translate(261.23 146.97) rotate(76.77) skewX(-.38)"><tspan x="0" y="0">н</tspan></text>
+      <text class="cls-11" transform="translate(263.88 158.82) rotate(81.73) skewX(-.32)"><tspan x="0" y="0">т</tspan></text>
+      <text class="cls-11" transform="translate(265.29 168.16) rotate(87.15) skewX(-.23)"><tspan x="0" y="0">ы</tspan></text>
+    </g>
+  </g>
+</svg>

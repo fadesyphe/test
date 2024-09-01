@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.22 653.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 60px;
+      }
+
+      .cls-2 {
+        letter-spacing: .11em;
+      }
+
+      .cls-3 {
+        letter-spacing: .08em;
+      }
+
+      .cls-4 {
+        letter-spacing: .09em;
+      }
+
+      .cls-5 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        letter-spacing: .1em;
+      }
+
+      .cls-7 {
+        letter-spacing: .09em;
+      }
+
+      .cls-8 {
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <text class="cls-1" transform="translate(50.22 653.75) rotate(-90)"><tspan class="cls-2" x="0" y="0">О</tspan><tspan class="cls-4" x="48.12" y="0">т</tspan><tspan class="cls-6" x="78.36" y="0">крывай </tspan><tspan class="cls-3" x="328.02" y="0">г</tspan><tspan class="cls-8" x="355.92" y="0">оризо</tspan><tspan class="cls-5" x="545.03" y="0">н</tspan><tspan class="cls-7" x="583.61" y="0">т</tspan><tspan class="cls-6" x="613.85" y="0">ы</tspan></text>
+  </g>
+</svg>
