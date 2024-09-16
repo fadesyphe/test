@@ -27,6 +27,9 @@ for (let linkMenu of linksMenu) {
   linkMenu.addEventListener('click', (e) => {
     e.preventDefault()
     const blockId = linkMenu.getAttribute('href').substring(1)
+    html.classList.remove('active');
+    menuButton.classList.remove('active');
+    menu.classList.remove('active');
     document.getElementById(blockId).scrollIntoView({
       behavior: 'smooth',
       block: 'start'
