@@ -21,3 +21,15 @@ formButton.forEach((element) => {
     alert("в будущем форма")
   })
 })
+
+const linksMenu = document.querySelectorAll('a[href*="#"]')
+for (let linkMenu of linksMenu) {
+  linkMenu.addEventListener('click', (e) => {
+    e.preventDefault()
+    const blockId = linkMenu.getAttribute('href').substring(1)
+    document.getElementById(blockId).scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    })
+  })
+}
