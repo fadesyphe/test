@@ -426,7 +426,7 @@ ol, ul {
   position: absolute;
   z-index: 1;
   left: -10%;
-  top: -140%;
+  top: -175%;
 
   width: 45%;
   max-width: 450px;
@@ -440,7 +440,7 @@ ol, ul {
   position: absolute;
   z-index: 1;
   right: -10%;
-  bottom: -10%;
+  bottom: -175%;
 
   width: 45%;
   aspect-ratio: 1 / 0.72;
@@ -451,6 +451,7 @@ ol, ul {
 }
 .advantages-info .section-title:nth-child(2) {
   background: none;
+  display: block;
 }
 .advantages-title-wrapper img {
   position: absolute;
