@@ -379,7 +379,7 @@ ol, ul {
 .section--clients .section-inner:after {
   content: "";
   position: absolute;
-  z-index: 1;
+  z-index: 5;
   right: -3%;
   top: 0;
 
@@ -928,13 +928,13 @@ ol, ul {
   }
   .advantages-list-background {
     display: block;
-    width: 50%;
+    width: 47%;
     position: absolute;
     z-index: 100;
     right: 0;
     bottom: -50px;
     height: 112%;
-    background: no-repeat center 90% url(./images/advantages\ list\ green\ back\ desktop.svg) var(--orange);
+    background: no-repeat center 80% url(./images/advantages\ list\ green\ back\ desktop.svg) var(--orange);
     background-size: 87%;
   }
 
@@ -1027,7 +1027,7 @@ ol, ul {
     width: 365px;
     height: 435px;
     right: -20%;
-    top: 5%;
+    top: 10%;
   }
   .clients-info {
     margin-top: 60px;
